@@ -1,8 +1,5 @@
 
-<<<<<<< HEAD
-Hi this is 
+Hi this is raju
 
-=======
-Hi this is prane
->>>>>>> 8566899 (change)
+
 
